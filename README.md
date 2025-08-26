@@ -1,17 +1,1 @@
 # login-activation-svc
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
